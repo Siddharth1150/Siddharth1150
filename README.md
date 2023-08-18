@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Siddharthsingh
+- 👋 Hi, I’m @Siddharth
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach m: Siddharthsingh1150@gmail.com
+- 📫 How to reach me : Siddharthsingh1150@gmail.com
 
 <!---
 Siddharth1150/Siddharth1150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
