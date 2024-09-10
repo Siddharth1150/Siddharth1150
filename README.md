@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siddharth
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on projects regarding frontend
+- 👀 I’m interested in .....
+- 🌱 I’m currently learning .......
+- 💞️ I’m looking to collaborate on .......
 - 📫 How to reach me : Siddharthsingh1150@gmail.com
 
 <!---
